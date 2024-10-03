@@ -31,7 +31,10 @@ Apply the migration to create the database using the update command.
 Use the created database for data operations (CRUD) via Entity Framework Core.
 
 ## Technologies Used
-C# for the application code
-Entity Framework Core for ORM and database interactions
-SQL Server (or another RDBMS) for the database
-.NET Core/ASP.NET Core as the application framework
+  C# for the application code
+  
+  Entity Framework Core for ORM and database interactions  
+  
+  SQL Server (or another RDBMS) for the database
+  
+ .NET Core/ASP.NET Core as the application framework
